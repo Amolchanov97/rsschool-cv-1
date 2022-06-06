@@ -32,6 +32,10 @@ function digitize(n) {
    return newArr.reverse()
 }
 ```
+## Education
+
+National Technical University
+"Kharkiv Polytechnic Institute", Engines and hybrid power plants
 
 ## Courses
 
