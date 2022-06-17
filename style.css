@@ -124,7 +124,7 @@ header {
 .name::after {
     content: "";
     position: absolute;
-    right: 400px;
+    margin-left: -250px;
     top: 240px;
     width: 140px;
     height: 2px;
